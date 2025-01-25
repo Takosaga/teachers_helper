@@ -1,0 +1,186 @@
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By the end of Grade 8
+
+
+Computing Systems
+Networks and the Internet
+
+Data and Analysis
+Algorithms and Programming
+
+Impacts of Computing
+DEVICES
+The interaction between humans and computing devices presents advantages, disadvantages, and unintended consequences. The study of human- computer interaction can improve the design of devices and extend the abilities of humans.
+Accessibility is an important consideration in the design of any computing system.
+For example, assistive devices provide capabilities such as scanning written information and converting it to speech. The use of computing devices also has potential consequences, such as in the areas of privacy and security. For example, GPS-enabled smartphones can provide directions to a destination yet unintentionally allow a person to be tracked for malicious purposes. Also, the attention required to follow GPS
+directions can lead to accidents
+due to distracted driving.
+Crosscutting Concepts: Human-Computer Interaction; Privacy and Security
+Connection Within Framework: 3-5.Impacts of Computing.Culture
+NETWORK COMMUNICATION AND ORGANIZATION
+Computers send and receive information based on a set of rules called protocols. Protocols define how messages between computers are structured and sent. Considerations of security, speed, and reliability are used to determine the best path to send and receive data.
+Protocols allow devices with different hardware and software to communicate, in the way that people with different native languages may use
+a common language for business. Protocols describe established commands and responses between computers on a network, such as request- ing data or sending an image. There are many examples of protocols including TCP/IP (Transmission Control Protocol/ Internet Protocol) and HTTP (Hypertext Transfer Protocol), which serve as the foundation for formatting and transmitting messages and data, including pages on the World Wide Web. Routers also implement protocols to record the fastest and most reliable paths by sending small packets as tests. The priority at this grade level is understanding the purpose
+COLLECTION
+People design algorithms and tools to automate the collection of data by computers. When data collection is automated, data is sampled and converted into a form that a computer can process. For example, data from an analog sensor must be converted into a digital form. The method used to automate data collection is influenced by the availability of tools and the intended use of the data.
+Data can be collected from either individual devices or systems. The method of data collection (for example, surveys versus sensor data) can affect the accuracy and precision of the data. Some types of data are more difficult to collect than others. For example, emotions must be subjectively evaluated on an individual basis and are thus difficult to measure across a population. Access to tools may be limited by factors including cost, training, and availability.
+Crosscutting Concept:
+Human-Computer Interaction
+Connection Within Framework: 6-8.Computing Systems.Hardware and Software
+ALGORITHMS
+Algorithms affect how people interact with computers and the way computers respond. People design algorithms that are generalizable to many situations. Algorithms that are readable are easier to follow, test, and debug.
+Algorithms control what recommendations a user may get on a music-streaming website, how a game responds to finger presses on a touch- screen, and how information is sent across the Internet. An algorithm that is generalizable to many situations can produce different outputs, based on a wide range of inputs. For example, an algorithm for a smart thermostat may control the temperature based on the time of day, how many people are at home, and current electricity consumption. The testing of an algorithm requires the use of inputs that reflect all possible conditions to evaluate its accuracy and robustness.
+Crosscutting Concepts: Human-Computer Interaction; Abstraction
+Connections Within Framework: 6-8.Data and Analysis.Inference and Models; 6-8.Computing Systems.
+Troubleshooting; 6-8.Data and Analysis.Visualization and Transformation
+CULTURE
+Advancements in computing technology change people's everyday activities. Society is faced with tradeoffs due to the increasing globalization and automation that computing brings.
+The effects of globalization, such as the sharing of information and cultural practices and the resulting cultural homogeneity, are increasingly possible because of computing. Globalization, coupled with the automation of the production of goods, allows access to labor that is less expensive and creates jobs that can easily move across national boundaries. Online piracy has increased because of information access that traverses national boundaries and varying legal systems.
+Crosscutting Concepts: Human-Computer Interaction; System Relationships
+Connection Within Framework: 6-8.Data and Analysis.Inference and Models
+
+SOCIAL INTERACTIONS
+People can organize and engage around issues and topics of interest through various communication platforms enabled by
+Table continued on next page
+
+
+HARDWARE AND SOFTWARE
+Hardware and software determine a computing system's capability to store and process information. The design or selection of a computing system involves multiple considerations and potential tradeoffs, such
+as functionality, cost, size, speed, accessibility, and aesthetics.
+The capability of a computing system is determined by the processor speed, storage capacity, and data transmission speed, as well as other factors. Selecting one computing system over another involves balancing a number of tradeoffs. For example, selecting a faster computer with more memory involves the tradeoffs of speed and cost. Choosing one operating system over another involves the tradeoff of capability and compatibility, such as which apps can be installed or which devices can be connected.
+Designing a robot requires
+choosing both hardware and software and may involve a tradeoff between the potential for customization and ease of use. The use of a device that connects wirelessly through a Bluetooth connection versus a device that connects physically through a USB connection involves a tradeoff between mobility and the need for an additional power source for the wireless device.
+of protocols, while knowing details of how specific proto- cols work is not expected.
+Crosscutting Concepts: Communication and Coordina- tion; Abstraction; Privacy and Security
+Connection Within Frame- work: 6-8.Data and Analysis. Storage
+
+CYBERSECURITY
+The information sent and received across networks can be protected from unautho- rized access and modifica- tion in a variety of ways, such as encryption to maintain its confidentiality and restricted access to maintain its integrity. Security measures to safeguard online informa- tion proactively address the threat of breaches to personal and private data.
+The integrity of information involves ensuring its consistency, accuracy, and trustworthiness. For example, HTTPS (Hypertext Transfer Protocol Secure) is an example of a security measure to protect data transmissions. It provides a more secure browser connection than HTTP (Hypertext Transfer Protocol) because it encrypts data being sent between websites.
+At this level, understanding the difference between HTTP and HTTPS, but not how the technologies work, is important.
+STORAGE
+Applications store data as a representation.
+Representations occur at multiple levels, from the arrangement of information into organized formats (such as tables in software) to the physical storage of bits. The software tools used to access information translate the
+low-level representation of bits into a form
+understandable by people.
+Computers can represent a variety of data using discrete values at many different levels, such as characters, numbers, and bits. Text is represented using character encoding standards like UNICODE, which represent text as numbers. All numbers and other types of data are encoded and stored as bits on a physical medium. Lossy and lossless data formats are used to store different levels of detail, but whenever digital data is used to represent analog measurements, such as temperature or sound, information is lost.
+Representations, or file
+formats, can contain metadata that is not always visible to the average user. There are privacy implications when files
+contain metadata, such as the location where a photograph was taken.
+Crosscutting Concept:
+Abstraction
+VARIABLES
+Programmers create variables to store data values of selected types. A meaningful identifier is assigned to each variable to access and perform operations on the value by
+name. Variables enable the flexibility to represent different situations, process different sets of data, and produce varying outputs.
+At this level, students deepen their understanding of variables, including when and how to declare and name new variables. A variable is like a container with a name, in which the contents may change, but the name (identifier) does not. The identifier makes keeping track of the data that is stored easier, especially if the data changes. Naming conventions for identifiers, and thoughtful choices of identifiers, improve program readability.
+The term variable is used differently in programming than the way it is commonly used in mathematics: a program variable refers to a location in which a value is stored, and the name used to access the value is called the identifier. A program variable is assigned a value, and that value may change throughout the execution of the program. Mathematicians typically do not make a distinction between a variable and the variable name. A mathematics
+computing, such as social networks and media outlets. These interactions allow issues to be examined using multiple viewpoints from a diverse audience.
+Social networks can play a large role in social and political movements by allowing individuals to share ideas and opinions about common issues while engaging with those who have different opinions.
+Computing provides a rich environment for discourse but may result in people consider- ing very limited viewpoints from a limited audience.
+Crosscutting Concepts: System Relationships; Human- Computer Interaction
+Connections Within Framework: 3-5.Data and Analysis.Visualization and Transformation; 9-12.Data and Analysis.Visualization and Transformation
+
+SAFETY, LAW, AND ETHICS
+There are tradeoffs between allowing information
+to be public and keeping information private and secure. People can be tricked into revealing personal information when more public information is available about them online.
+Table continued on next page
+
+
+Crosscutting Concepts: System Relationships; Commu- nication and Coordination
+Connection Within Framework: 6-8.Data and Analysis.Collection
+
+TROUBLESHOOTING
+Comprehensive troubleshooting requires knowledge of how computing devices and components work and interact. A systematic process will identify the source of a problem, whether within a device or in a larger system of connected devices.
+Just as pilots use checklists to troubleshoot problems with aircraft systems, people can use a similar, structured process to troubleshoot problems with computing systems and ensure that potential solutions are not overlooked. Because a computing device may interact with interconnected devices within a system, problems may not be due to the specific computing device itself
+but to devices connected
+to it. Examples of system components that may need troubleshooting are physical and wireless connections, peripheral equipment, and network hardware. Strategies for troubleshooting a computing system and debugging a program include some problem-solving steps that are similar.
+Crosscutting Concept: Privacy and Security
+Connection Within Framework: 6-8.Impacts of Computing.Safety, Law, and Ethics
+Connections Within Framework: 6-8.Algorithms and Programming.Variables; 6-8.Networks and the Internet.Network Communica- tion and Organization
+
+VISUALIZATION AND TRANSFORMATION
+Data can be transformed to remove errors, highlight or expose relationships, and/or make it easier for computers to process.
+The cleaning of data is an important transformation for reducing noise and errors. An example of noise would be the first few seconds of a sample in which an audio sensor collects extraneous sound created by the user position- ing the sensor. Errors in survey data are cleaned up to remove spurious or inappropriate responses. An example of a transformation that highlights a relationship is representing two groups (such as males and females) as percentages of a whole instead of as individual counts. Computational biologists use compression algorithms to make extremely large data sets of genetic information more manageable and the analysis more efficient.
+Crosscutting Concept:
+Abstraction
+Connection Within Framework: 6-8.Algorithms and Programming.Algorithms
+variable often represents a set of values for which the statement containing the variable is true.
+Crosscutting Concept:
+Abstraction
+Connection Within Framework:
+6-8.Data and Analysis.Storage
+
+CONTROL
+Programmers select and combine control structures, such as loops, event handlers, and conditionals, to create more complex program behavior.
+Conditional statements can have varying levels of complexi- ty, including compound and nested conditionals. Compound conditionals combine two or more conditions in a logical relationship, and nesting conditionals within one another allows the result of one condi- tional to lead to another being evaluated. An example of a nested conditional structure is deciding what to do based on the weather outside. If it is sunny outside, I will further decide if I want to ride my bike or go running, but if it is not sunny outside, I will decide whether to read a book or watch TV. Different types of control structures can be combined with one another, such as loops and conditionals. Different types of programming languages implement control structures in different ways. For example, functional program- ming languages
+Social engineering is based on tricking people into breaking security procedures and can be thwarted by being aware of various kinds of attacks, such as emails with false information and phishing.
+Security attacks often start with personal information that is publicly available online. All users should be aware of
+the personal information, especially financial informa- tion, that is stored on the websites they use. Protecting personal online information requires authentication measures that can often make it harder for authorized users to access information.
+Crosscutting Concepts: Privacy and Security; Communication and Coordination
+Connection Within Framework: 6-8.Networks and the Internet.Cybersecurity
+Table continued on next page
+
+
+Crosscutting Concepts: System Relationships; Abstraction
+Connection Within Framework: 6-8.Algorithms and Programming.Algorithms
+
+INFERENCE AND MODELS
+Computer models can be used to simulate events, examine theories and inferences, or make predictions with either few or millions of data points. Computer models are abstractions that
+represent phenomena and use data and algorithms to emphasize key features and relationships within a system. As more data is automatically collected, models can be refined.
+Very large data sets require a model for analysis; they are too large to be analyzed by examining all of the records. While individual users are online, shopping websites and online advertisements use personal data they generate, compared to millions of other users, to predict what they would like and make recommendations. A
+video-streaming website may recommend videos based on models generated from other users and based upon their personal habits and preferences. The data that is collected about an individual
+and potential inferences made from that data can have implications for privacy.
+Crosscutting Concepts: Privacy and Security; Abstraction
+Connections Within Frame- work: 6-8.Algorithms and Programming.Algorithms; 6-8. Impacts of Computing.Culture
+implement repetition using recursive function calls instead of loops. At this level, understanding implementation in multiple languages is
+not essential.
+Crosscutting Concept:
+Abstraction
+
+MODULARITY
+Programs use procedures to organize code, hide implementation details, and make code easier to reuse.
+Procedures can be repurposed in new programs. Defining parameters for procedures
+can generalize behavior and increase reusability.
+A procedure is a module (a group of instructions within a program) that performs a particular task. In this framework, procedure is used as a general term that may refer to an actual procedure or a method, function, or similar concept in other programming languages. Procedures are invoked to repeat groups of instructions.
+For example, a procedure, such as one to draw a circle, involves many instructions, but all of them can be invoked with
+one instruction, such as "draw- Circle." Procedures that are defined with parameters are generalizable to many situations and will produce different outputs based
+on a wide range of inputs (arguments).
+Crosscutting Concepts:
+Abstraction; System Relationships
+
+Table continued on next page
+
+
+
+
+
+PROGRAM DEVELOPMENT
+People design meaningful solutions for others by defining a problem's criteria and constraints, carefully considering the diverse needs and wants of the community, and testing whether criteria and constraints were met.
+Development teams that employ user-centered design create solutions that can have a large societal impact, such as an app that allows people with speech difficulties to translate
+hard-to-understand pronunciation into understandable language.
+Use cases and test cases are created and analyzed to better meet the needs of users and to evaluate whether criteria and constraints are met. An example of a design constraint is that mobile applications must be optimized for small screens and limited battery life.
+Crosscutting Concepts: Human-Computer Interaction; Abstraction
+Connection Within Framework:
+3-5.Impacts of Computing. Culture
+
+
+
