@@ -9,4 +9,4 @@ Open Source technologies used:
 
 * [Onyx](https://github.com/onyx-dot-app/onyx)
 * [ollama](https://ollama.com/)
-* [deepseek](https://www.deepseek.com/)
+* [llama3.2](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_2/)
