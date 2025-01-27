@@ -7,6 +7,7 @@ Teachers worldwide struggle to find high-quality, relevant teaching resources qu
 Solution:
 Teacher's Helper is a smart, adaptable platform that empowers educators to instantly discover and share teaching resources—whether online or stored locally. Designed for flexibility, it can be deployed in the cloud for schools with reliable internet or installed on-premise in underserved communities, ensuring equitable access to educational materials.
 
+[![IMAGE ALT TEXT](https://github.com/Takosaga/teachers_helper/blob/main/Teacher's_helper.png)](https://youtu.be/w7rXye8nTuM)
 
 Open Source technologies used:
 
