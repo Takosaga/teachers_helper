@@ -11,6 +11,7 @@ Teacher's Helper is a smart, adaptable platform that empowers educators to insta
 Open Source technologies used:
 
 * [Onyx](https://github.com/onyx-dot-app/onyx)
+* [docker](https://www.docker.com/)
 * [ollama](https://ollama.com/)
 * [llama3.2](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_2/)
 
