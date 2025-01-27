@@ -33,3 +33,24 @@ Teacher's Helper is a smart, adaptable platform that empowers educators to insta
 ## Example:
 
 ![](https://github.com/Takosaga/teachers_helper/blob/main/bot_example.png)
+
+## Lessons Learned:
+
+### 1. Adapting to Tool Limitations
+- **API Integration Challenges**: Learned to work with undocumented APIs by using community resources and trial-and-error experimentation.
+- **Hardware Constraints**: Discovered a workaround for AMD GPU limitations (ROCM incompatibility with RX 6700 XT by adjusting HSA_OVERRIDE_GFX_VERSION=10.3.0) with Ollama.
+
+### 2. Model Selection & Trade-offs
+- Tested more complex models like `deepseek-r1` but prioritized smaller models (e.g., `llama3.2`) for computational costs, as reasoning may not be needed for educational use cases.
+- Balanced model size, latency, and accuracy for resource-constrained environments.
+
+### 3. Deployment Flexibility
+- Explored Onyx’s Slack integration as a user-friendly alternative to web deployment, prioritizing accessibility for educators.
+- Designed hybrid cloud/on-premise architecture to address low-resource communities’ internet limitations.
+
+### 4. Rapid Prototyping
+- Dockerized workflows to streamline setup and iteration during the hackathon.
+- Modular design (decoupling RAG from LLM) allowed quick pivots between tools like Onyx and Ollama.
+
+### 5. User-Centric Design
+- Simplified outputs (e.g., avoiding markdown in Slack) to reduce cognitive load for teachers.
