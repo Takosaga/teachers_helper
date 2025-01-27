@@ -15,4 +15,9 @@ Open Source technologies used:
 * [llama3.2](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_2/)
 
 Architecture:
+
 ![](https://github.com/Takosaga/teachers_helper/blob/main/Architecture.png)
+
+Example:
+
+![](https://github.com/Takosaga/teachers_helper/blob/main/bot_example.png)
