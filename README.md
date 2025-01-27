@@ -1,5 +1,6 @@
 # Teacher's Helper
 [AI for Connectivity Hackathon](https://lablab.ai/event/ai-for-connectivity-hackathon) 
+[Submission Link](https://lablab.ai/event/ai-for-connectivity-hackathon/teachers-helper/teachers-helper)
 
 ## Challenge
 
