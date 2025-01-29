@@ -56,3 +56,7 @@ Teacher's Helper is a smart, adaptable platform that empowers educators to insta
 
 ### 5. User-Centric Design
 - Simplified outputs (e.g., avoiding markdown in Slack) to reduce cognitive load for teachers.
+
+Additional notes:
+The default context window size in Ollama is set to [2048 tokens](https://github.com/ollama/ollama/blob/main/docs/faq.md)
+
